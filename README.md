@@ -1,7 +1,7 @@
 # About the project
 A simple application developed with React.JS to test asynchronous rendering for the Distributed Systems class of the Computer Science course
 
-See the deploy here: https://upbeat-galileo-8c903e.netlify.app/
+See the deploy here: [https://nondasnf-react-async.netlify.app/](https://nondasnf-react-async.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
